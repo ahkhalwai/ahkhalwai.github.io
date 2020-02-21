@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nishant Keni"
+title                    : "Halwai Aftab Hasan"
 title_separator          : "-"
 name                     : &name "Nishant Keni"
 description              : &description "personal description"
-url                      : https://nishkeni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ahkhalwai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nishkeni.github.io"
+repository               : "ahkhalwai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 future                   : true
@@ -84,20 +84,20 @@ author:
   location         : 
   employer         : "Data Scientist @ Amazon"
   googlescholar    : 
-  email            : "nishant.keni@outlook.edu"
+  email            : "ahkhalwai55@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "NishKeni"
+  facebook         : "ahkhalwai"
   foursquare       :
-  github           : "nishkeni"
+  github           : "ahkhalwai"
   google_plus      :
   keybase          :
-  instagram        : "nish_keni"
+  instagram        : "aftabrax"
   lastfm           :
-  linkedin         :  "nishant-keni"
+  linkedin         :  "ahkhalwai"
   orcid            :
   pinterest        :
   soundcloud       :
