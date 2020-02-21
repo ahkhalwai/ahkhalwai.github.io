@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Halwai Aftab Hasan"
 title_separator          : "-"
-name                     : &name "Nishant Keni"
+name                     : &name "Halwai Aftab Hasan"
 description              : &description "personal description"
 url                      : https://ahkhalwai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nishant Keni"
-  avatar           : "profile.png"
-  bio              : "AI @ Stanford | ECE @ Georgia Tech | CS @ UC Berkeley"
+  name             : "Halwai Aftab Hasan"
+  avatar           : "profile.jpg"
+  bio              : "AI"
   location         : 
-  employer         : "Data Scientist @ Amazon"
+  employer         : "Udacity Facebook or Intel Scholar"
   googlescholar    : 
   email            : "ahkhalwai55@gmail.com"
   uri              :
