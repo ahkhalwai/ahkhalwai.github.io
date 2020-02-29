@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 
-* Professional Certificate in Artificial Intelligence, Stanford University, CA, 2019 - 2020 (expected). 
-* M.S. in Electrical and Computer Engineering, Georgia Institue of Technology, Atlanta, GA, May 2019.
-* B.Tech. (Institute Gold Medal) in Electronics Engineering, V.J.T.I. Mumbai, May 2017.
+* Computer Vision Nanodegree, 2019
+* Deep Learning Nanodegree, 2019
+* B.Tech. in Electronics & Telecommunication Engineering, P.C.E. Mumbai, May 2017.
 
 
 <br> 
