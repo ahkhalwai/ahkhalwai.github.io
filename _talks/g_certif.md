@@ -1,10 +1,10 @@
 ---
-title: "Robotics: Aerial Robotics"
+title: "Computer Vision Nanodegree"
 collection: talks
-type: "Coursera"
+type: "Udacity"
 permalink: /talks/g_certif
-venue: "University of Penssylvania"
-date: 2017-03-09
-location: "Philadelphia PA, USA"
+#venue: "University of Penssylvania"
+date: 2019-11-23
+#location: "Philadelphia PA, USA"
 ---
 
