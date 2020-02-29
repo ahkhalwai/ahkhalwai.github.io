@@ -1,10 +1,10 @@
 ---
-title: "Fundamentals of Quantitative Modeling"
+title: "Data Analytics using R"
 collection: talks
-type: "Coursera"
+type: "suven consultants & technology pvt ltd"
 permalink: /talks/b_certif
-venue: "The Wharton School, University of Pennsylvania"
-date: 2017-07-09
-location: "Philadelphia PA, USA"
+#venue: "The Wharton School, University of Pennsylvania"
+date: 2018-07-02
+location: "Mumbai, India"
 ---
 
