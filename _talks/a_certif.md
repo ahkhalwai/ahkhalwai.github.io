@@ -1,10 +1,10 @@
 ---
-title: "Cryptography and Information Security"
+title: "Python and Django"
 collection: talks
-type: "Coursera"
+type: "suven consultants & technology pvt ltd"
 permalink: /talks/a_certif
-venue: "University of Colorado"
-date: 2018-04-02
-location: "Colorado Springs CO, USA"
+#venue: 
+date: 2018-06-01
+location: "Mumbai, India"
 ---
 
