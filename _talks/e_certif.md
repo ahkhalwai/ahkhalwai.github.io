@@ -1,10 +1,11 @@
 ---
-title: "A Crash Course in Data Science"
+title: "Secure Private AI Challenge
+Scholarship from Facebook"
 collection: talks
-type: "Coursera"
+type: "Udacity"
 permalink: /talks/e_certif
-venue: "Johns Hopkins University"
-date: 2017-03-31
-location: "Baltimore MD, USA"
+#venue: "Johns Hopkins University"
+date: 2019-07-15
+#location: "Baltimore MD, USA"
 ---
 
