@@ -1,7 +1,7 @@
 ---
 title: "Python and Django"
 collection: talks
-type: "suven consultants & technology pvt ltd"
+type: "Suven Consultants & Technology Pvt Ltd"
 permalink: /talks/a_certif
 #venue: 
 date: 2018-06-01
