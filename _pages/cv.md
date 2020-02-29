@@ -55,15 +55,7 @@ Work experience
   * Duties included: Software Development in Dynamic SQL Query Adapter
   * Supervisor: Mr. Gaurav Lad (Associate Vice President, Credit Suisse)
  
-<br>  
-  
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<br> 
+<br>   
 
 Projects
 ======
