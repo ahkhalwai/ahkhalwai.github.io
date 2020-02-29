@@ -1,5 +1,5 @@
 ---
-title: "Statistics AND Tableau"
+title: "Statistics and Tableau"
 collection: talks
 type: "Suven Consultants & Technology Pvt Ltd"
 permalink: /talks/c_certif
