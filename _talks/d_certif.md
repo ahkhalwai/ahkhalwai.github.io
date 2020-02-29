@@ -1,10 +1,10 @@
 ---
-title: "Machine Learning (Specialization): Regression, Classification, Clustering & Information Retrieval"
+title: "Machine Learning"
 collection: talks
 type: "Coursera"
 permalink: /talks/d_certif
-venue: "University of Washington"
-date: 2017-05-04
-location: "Seattle WA, USA"
+venue: "Stanford University"
+date: 2018-11-03
+location: "Stanford CA, USA"
 ---
 
