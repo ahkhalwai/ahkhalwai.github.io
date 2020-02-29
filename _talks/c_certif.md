@@ -1,10 +1,10 @@
 ---
-title: "Game Theory"
+title: "Statistics AND Tableau"
 collection: talks
-type: "Coursera"
+type: "Suven Consultants & Technology Pvt Ltd"
 permalink: /talks/c_certif
-venue: "Stanford University"
-date: 2017-05-31
-location: "Stanford CA, USA"
+#venue: "Stanford University"
+date: 2018-10-18
+location: "Mumbai, India"
 ---
 
