@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Nenodegree"
 collection: talks
-type: "Coursera"
+type: "Udacity"
 permalink: /talks/f_certif
 #venue: "University of California, Davis"
 date: 2019-12-28
