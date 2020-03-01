@@ -2,7 +2,7 @@
 permalink: /projects/aac
 title: "SMS Spam Detection"
 collection: projects
-#venue: "Kaggle"
+venue: "Kaggle"
 period: "April, 2019"
 ---
 
