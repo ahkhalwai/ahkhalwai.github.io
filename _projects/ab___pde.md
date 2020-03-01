@@ -1,12 +1,14 @@
 ---
-permalink: /projects/ab___pde
-title: "Adversaries meet PDEs: A First Look at Fluidic Adversarial Robustification"
+permalink: /projects/trodp
+title: "The-Rhythm-Of-Differential-Privacy"
 collection: projects
-venue: "Georgia Institute of Technology (ECE 6560: PDEs for Image Processing & Computer Vision)"
-period: "January - April, 2019"
+venue: "Secure Private AI Challenge Scholarship from Facebook"
+period: "July - December, 2019"
 ---
 
 {% include base_path %}
 
 
-Invented a Lagrangian to perform blind robustification of adversarial examples, and proposed a stable discretization scheme for its gradient flow. The proposed blind approach targets to destroy the structure of adversarial perturbation while causing minimal damage to the information signal.
+Worked with [Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/), [Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/), [Harkirat Singh](https://www.linkedin.com/in/harkirat155/) to create
+[The-Rhythm-Of-Differential-Privacy](https://github.com/ahkhalwai/UdacityOpenSource/tree/master/The-Rhythm-Of-Differential-Privacy), The goal of this project is to utilize the PySyft framework to apply differential privacy and federated learning and produce
+GraphView
