@@ -15,17 +15,16 @@ I am an Electronics & Telecommunication Engineer by Formal Education, and a Inte
 Research Interests
 ======
 
-My research interests lie in Statistical Learning, Optimization, Causal Inference & Network Science; and I love to think about the Design & Analysis of Algorithms, and Chaos Theory.  My prime hobby is ‘Thinking’ and I like to model real-life scenarios to find their solutions through Mathematics (for e.g. The Linear Inverse Problem Theory relates to how Humans perceive each other). I also like to think about the fusion of Machine Learning and Game Theory, as both these model the most supreme agents we live with; the former created by Humans while the later created by Biological Science! 
+My research interests lie in Computer Vision & Natural language processing; I also like to think about Machine Learning as these model the most supreme agents we live with; the former created by Humans while the later created by Biological Science! 
 
 <br>
 
 Get in Touch
 ======
 
-As a background context, I am <i>aggressively</i> protective of my time, as I believe we all should be. I love to wear the hats of both a researcher and a maker. [Here's](http://www.paulgraham.com/makersschedule.html) an interesting perspective on why disruptions are so corrosive to a maker's schedule. 
+As a background context, I am <i>aggressively</i> protective of my time, as I believe we all should be. I love to talk on my research with you :) 
 
-If there's anything you believe I can assist you with, I am looking forward to talking to you! If you want to chat with me, please consider e-mailing me first for context, and then using [this](https://calendly.com/nishant-keni) to find a time that works best for you.
-
+If there's anything you believe I can assist you with, I am looking forward to talking to you! If you want to chat with me, please consider e-mailing me first for context, and then using [this](https://calendly.com/ahkhalwai55) to find a time that works best for you.
 
 <br>
 
