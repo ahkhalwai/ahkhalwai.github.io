@@ -31,12 +31,8 @@ If there's anything you believe I can assist you with, I am looking forward to t
 News
 ======
 
-* January 2020 - I will be presenting my work on Adaptive Containerization for Microservice Deployment at the IEEE Consumer Communications & Networking Conference (CCNC), 2020 at Las Vegas, NV.
+* January 2020 - I am start working aborad with Fire Trader Group(abord).
 
-* December 2019 - I am presenting my work on Adversarial Defenses at the 21st IEEE International Symnposium on Multimedia (ISM), 2019 at San Diego, CA.
+* December 2019 - I am start working with France Researcher.
 
-* July 2019 - I am joining Amazon.com as a Data Scientist in the Advertising Measurement & Optimization Team!
-
-* August 2018 - I joined Amazon.in as an Applied Scientist Intern - Machine Learning in the India Machine Learning (IML) Team!
-
-* May 2018 - I joined Dr. Dawn Song as a Visiting Student Researcher for the Summer at the University of California, Berkeley (EECS, Computer Science)!
+* November 2019 - Start working research with taiwan Scholar!
