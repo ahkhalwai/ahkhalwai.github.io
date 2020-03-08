@@ -31,8 +31,8 @@ If there's anything you believe I can assist you with, I am looking forward to t
 News
 ======
 
-* January 2020 - I am start working aborad with Fire Trader Group(abord).
+* January 2020 - Start working with Fire Trader Group(aboard).
 
-* December 2019 - I am start working with France Researcher.
+* December 2019 - Start working with France Researcher.
 
 * November 2019 - Start working research with taiwan Scholar!
