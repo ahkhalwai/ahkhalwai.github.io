@@ -21,41 +21,38 @@ Education
 
 Work experience
 ======
-
-* July 2019 - Present: Data Scientist - Advertising Measurement & Optimization
-  * Amazon.com
-  * Duties included: Causal Inference, Statistical Estimation.
-  * Supervisor: Mr. Hadi Purnomo (Sr. Research Scientist, Amazon.com)
+* Dec 2019 –  March 2020: Scholarship Recipient 
+  * Intel Edge AI Scholarship Challenge
+  * Challenges, Task, Porject, competition between 16000 scholars for top 750. 
   
 <br>
 
-* Fall 2018: Applied Scientist Intern - Machine Learning
-  * Amazon.in
-  * Duties included: Dynamic Incentivization using Reinforcement Learning
-  * Supervisor: Mr. Arijit Biswas & Mrs. Pooja A. (Sr. Machine Learning Scientist, Amazon.in)
-  
-<br>
-
-* Summer 2018: Visiting Student Researcher
-  * University of California, Berkeley (Computer Science)
-  * Duties included: Research in Adversarial Defenses for Learning Models
-  * Supervisor: Dr. Dawn Song
-  
-<br>
-
-* Spring 2018, 2019: Graduate Teaching Assistant
-  * Machine Learning (CS 4641/7641A): Georgia Institute of Technology (College of Computing)
-  * Duties included: Conducting Office Hours, Grading
-  * Supervisor: Dr. Charles Isbell
-  
-<br>
-
-* Summer 2016: Information Technology Intern
-  * Credit Suisse (Advanced Executional Services)
-  * Duties included: Software Development in Dynamic SQL Query Adapter
-  * Supervisor: Mr. Gaurav Lad (Associate Vice President, Credit Suisse)
+* Jun 2019 – Sept 2019: Scholarship Recipient 
+  * Secure & Private AI challenge Scholarship From Facebook
+  * Challenges, Task, Porject, competition between 5000 scholars for top 300. 
  
-<br>   
+<br> 
+
+* June 2019 – Sep 2019: Facilitator
+  * Developer Circle From Facebook  
+  * Conducting meetup for Deep Learning.
+  
+<br>
+
+* Sep 2018 – Nov 2018 : Data Scientist Intern - Machine Learning
+  * GEPL CAPITAL PVT.LTD.
+  * Worked on the Data Management team in R and Python to Data Wrangling, Explore The Data, Draw Conclusion, Visualization the Data    
+    Analytic of a "Analytics and Insights of Customer Behaviour" project
+  * All code and analytics was reviewed, perfected, and pushed to production.
+  
+<br>
+
+* Jun 2018 – Oct 2018: Python and Data Analysis Intern
+  * Suven Consultants and technology Pvt.Ltd.
+  * The Online internship provided by Suven Consultant and Technology pvt ltd for
+    practice purpose.
+  
+<br>  
 
 Projects
 ======
