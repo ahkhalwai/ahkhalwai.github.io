@@ -90,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  Kaggle           : "https://www.kaggle.com/ahkhalwai55"
+  Kaggle           : https://www.kaggle.com/ahkhalwai55
   foursquare       :
   github           : "ahkhalwai"
   google_plus      :
@@ -101,7 +101,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    :  http://stackoverflow.com/users/123456/username
+  stackoverflow    :  "http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
   twitter          : 
