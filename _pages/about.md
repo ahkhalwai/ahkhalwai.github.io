@@ -31,8 +31,8 @@ If there's anything you believe, I am looking forward to talking to you! If you 
 News
 ======
 
-* January 2020 - Start learning with Fire Trader Group(aboard).
+* January 2020 - Start learning with Fire Trader Group(abroad).
 
-* December 2019 - Start learning with France Researcher.
+* December 2019 - Start learning with French Researcher.
 
-* November 2019 - Start learning research with taiwan Scholar!
+* November 2019 - Start learning research with Taiwanese Scholar!
