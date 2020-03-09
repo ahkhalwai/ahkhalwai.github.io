@@ -22,17 +22,17 @@ My research interests lie in Computer Vision & Natural language processing; I al
 Get in Touch
 ======
 
-As a background context, I am <i>aggressively</i> protective of my time, as I believe we all should be. I love to talk on my research with you :) 
-
-If there's anything you believe I can assist you with, I am looking forward to talking to you! If you want to chat with me, please consider e-mailing me first for context, and then using [this](https://calendly.com/ahkhalwai55) to find a time that works best for you.
+I am open to collaboration and would be eager to work with others.
+ 
+If there's anything you believe, I am looking forward to talking to you! If you want to chat with me, please consider e-mailing me first for context, and then using [this](https://calendly.com/ahkhalwai55) to find a time that works best for you.
 
 <br>
 
 News
 ======
 
-* January 2020 - Start working with Fire Trader Group(aboard).
+* January 2020 - Start learning with Fire Trader Group(aboard).
 
-* December 2019 - Start working with France Researcher.
+* December 2019 - Start learning with France Researcher.
 
-* November 2019 - Start working research with taiwan Scholar!
+* November 2019 - Start learning research with taiwan Scholar!
