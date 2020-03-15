@@ -6,8 +6,11 @@ main:
   - title: "Projects"
     url: /projects/
         
-  - title: "Blogs"
+  - title: "News"
     url: /year-archive/
+    
+  - title: "YouTube"
+    url: /YouTube/
     
   - title: "Resume"
     url: /cv/
