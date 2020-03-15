@@ -1,13 +1,13 @@
 ---
 permalink: /projects/aac
-title: "SMS Spam Detection"
+title: "Generate Faces"
 collection: projects
-venue: "Kaggle"
-period: "April, 2019"
+venue: "Udacity Nanodegree"
+period: "December, 2019"
 ---
 
 {% include base_path %}
 
 
-[SMS Spam Detection](https://github.com/ahkhalwai/SMS_Spam_Detection) using Navie bayes with Tfidf approch, with Dataset from UCI Machine Learning Lab Dataset
+[Generate Faces](https://github.com/ahkhalwai/Udacity_Nanodegree/tree/master/Deep%20Learning/project-face-generation/project-face-generation) In this project, I use generative adversarial networks to generate new images of faces.
 

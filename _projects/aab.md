@@ -1,12 +1,13 @@
 ---
 permalink: /projects/aab
-title: "Aerial Cactus Identification"
+title: "Deploying a Sentiment Analysis Model on AWS"
 collection: projects
-venue: "Kaggle Competition"
-period: "June - July, 2019"
+venue: "Udacity Nanodegree"
+period: "December, 2019"
 ---
 
 {% include base_path %}
 
 
-Work with [Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/) to create [https://www.kaggle.com/c/aerial-cactus-identification](https://www.kaggle.com/ahkhalwai55/simple-fastai-exercise-vgg19-bn) is to Determine whether an image contains a columnar cactus. This project is base or upgrade on Alexander Milekhin and [Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/), here I applied transfer learning skill with vgg19_bn. Came Top 9% in the competition.
+[Deploying a Sentiment Analysis Model on AWS](https://github.com/ahkhalwai/Udacity_Nanodegree/tree/master/Deep%20Learning/Sagemaker/Project) In this project I need to construct a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. I create this model using Amazon's SageMaker service. In addition, I deploy the model and construct a simple web app which will interact with the deployed model.
+
