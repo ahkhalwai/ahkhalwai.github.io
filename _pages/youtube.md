@@ -9,7 +9,7 @@ redirect_from:
 
 March 2020 - How to reach out to the AI Researcher and How you can work on a real research project?
 
-[![How to reach out to the AI Researcher and How you can work on a real research project?](https://img.youtube.com/vi/TfqwtBQlrJ4/0.jpg)](https://www.youtube.com/watch?v=TfqwtBQlrJ4&t=1s "How to reach out to the AI Researcher and How you can work on a real research project?")
+[![How to reach out to the AI Researcher and How you can work on a real research project?](https://img.youtube.com/vi/TfqwtBQlrJ4/mqdefault.jpg)](https://www.youtube.com/watch?v=TfqwtBQlrJ4&t=1s "How to reach out to the AI Researcher and How you can work on a real research project?")
 
 
 December 2019 - AWS Create Free Tire - Instances limit Increase - Client Error - Access Denied
