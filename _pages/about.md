@@ -35,4 +35,4 @@ News
 
 * December 2019 - Start learning with French Researcher.
 
-* November 2019 - Start learning research with Taiwanese Scholar!
+* June 2019 - Start learning research with Taiwanese Scholar!
