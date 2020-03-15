@@ -1,5 +1,5 @@
 ---
-permalink: /projects/ObjectCounting
+permalink: /projects/aaa
 title: "Object Counting on OpenVINO ToolKit"
 collection: projects
 venue: "Intel Edge AI Scholarship Challenge 2020"
