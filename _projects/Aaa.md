@@ -3,7 +3,7 @@ permalink: /projects/aaa
 title: "Object Counting on OpenVINO ToolKit"
 collection: projects
 venue: "Intel Edge AI Scholarship Challenge 2020"
-period: "December 2019 – February 2020"
+period: "February 2020 – December 2019"
 ---
 
 {% include base_path %}
