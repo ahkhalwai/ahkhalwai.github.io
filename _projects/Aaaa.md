@@ -3,7 +3,7 @@ permalink: /projects/trodp
 title: "The-Rhythm-Of-Differential-Privacy"
 collection: projects
 venue: "Secure Private AI Challenge Scholarship from Facebook"
-period: "July - December, 2019"
+period: "December - July, 2019"
 ---
 
 {% include base_path %}

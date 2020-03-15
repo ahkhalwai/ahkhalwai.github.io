@@ -3,7 +3,7 @@ permalink: /projects/aai
 title: "Aerial Cactus Identification"
 collection: projects
 venue: "Kaggle Competition"
-period: "June - July, 2019"
+period: "July - June, 2019"
 ---
 
 {% include base_path %}
