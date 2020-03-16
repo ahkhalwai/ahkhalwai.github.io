@@ -16,7 +16,7 @@ redirect_from:
 
 * December 2019 - Start learning with French Researcher.
 
-* September 2019 - Secure and Private AI Scholarship Challenge from Facebook Recipient of Top 300 Scholar, Choosed Computer Vision Nanodegree.
+* September 2019 - Secure and Private AI Scholarship Nanodegree from Facebook Recipient of Top 300 Scholar, Choosed Computer Vision Nanodegree.
 
 ![][image3]
 
