@@ -20,7 +20,7 @@ redirect_from:
 
 ![][image3]
 
-* June 2019 - Start learning research with Taiwanese **[Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/)**, American **[Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/)**, Indian **[Harkirat Singh](https://www.linkedin.com/in/harkirat155/)** Scholar!
+* June 2019 - Start learning research with Taiwanese **[Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/)**, American **[Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/)**, Indian **[Harkirat Singh](https://www.linkedin.com/in/harkirat155/) Scholar**!
 
 * July 2019 - Mumbai Meetup came into Udacity Newsletter
 
