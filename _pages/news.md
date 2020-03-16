@@ -7,7 +7,8 @@ redirect_from:
   - /News
 ---
 
-[image1]: ./images/udacitynewsletter.png   
+[image1]: ./images/spaictitle.png
+[image2]: ./images/udacitynewsletter.png   
 
 
 * February 2020 - Start learning with Fire Trader Group(abroad).
@@ -17,5 +18,6 @@ redirect_from:
 * June 2019 - Start learning research with Taiwanese Scholar!
 
 * July 2019 - Mumbai Meetup came into Udacity Newsletter
-![][image1]
+![][image2]
 * May 2019 - UdacityFacebookScholar, Secure and Private AI Scholarship Challenge from Facebook Recipient of Top 5000 Scholar.  
+![][image1]
