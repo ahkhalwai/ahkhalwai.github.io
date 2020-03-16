@@ -20,7 +20,7 @@ redirect_from:
 
 ![][image3]
 
-* June 2019 - Start learning research with Taiwanese Scholar!
+* June 2019 - Start learning research with Taiwanese and American Scholar!
 
 * July 2019 - Mumbai Meetup came into Udacity Newsletter
 
