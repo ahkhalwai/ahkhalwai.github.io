@@ -9,23 +9,40 @@ redirect_from:
 
 [image1]: ./images/spaictitle.png
 [image2]: ./images/udacitynewsletter.png   
-[image3]: ./images/top300.png
+[image3]: ./images/facilitator.png
+[image4]: ./images/top300.png
+[image5]: ./images/devcn.png
+[image6]: ./images/devcr.png
 
 
-* February 2020 - Start learning with Fire Trader Group(abroad).
 
-* December 2019 - Start learning with French Researcher.
 
-* September 2019 - Secure and Private AI Scholarship Nanodegree from Facebook Recipient of Top 300 Scholar, Choosed Computer Vision Nanodegree.
+* February 2020 - Start learning with **Fire Trader Group(abroad)**.
 
-![][image3]
+* December 2019 - Start learning research with **French Researcher**.
+
+* December 2019 - Developer Circles from **Facebook** posted **My Story**.
+
+![][image6] 
+
+* August 2019 - **Recipient** Developer Circles from **Facebook** Machine Learning Training Course! of **Top 200 Scholar from around the world**, **Deep Learning Nanodegree**
+
+![][image5]
+
+* September 2019 - Secure and Private AI Scholarship Nanodegree from **Facebook Recipient of Top 300 Scholar from around the world**, Choosed **Computer Vision Nanodegree**.
+
+![][image4]
 
 * June 2019 - Start learning research with Taiwanese **[Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/)**, American **[Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/)**, Indian **[Harkirat Singh](https://www.linkedin.com/in/harkirat155/) Scholar**!
 
-* July 2019 - Mumbai Meetup came into Udacity Newsletter
+* July 2019 - Selected for **Facilitator** of Developer Circles from **Facebook Mumbai**.
+
+![][image3]
+
+* July 2019 - **Mumbai Meetup** came into **Udacity Newsletter**.
 
 ![][image2]
 
-* May 2019 - UdacityFacebookScholar, Secure and Private AI Scholarship Challenge from Facebook Recipient of Top 5000 Scholar.  
+* May 2019 - UdacityFacebookScholar, Secure and Private AI Scholarship Challenge from Facebook Recipient of **Top 5000 Scholar from around the world**.  
 
 ![][image1]
