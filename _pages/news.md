@@ -9,10 +9,10 @@ redirect_from:
 
 [image1]: ./images/spaictitle.png
 [image2]: ./images/udacitynewsletter.png   
-[image3]: ./images/facilitator.jpeg
+[image3]: ./images/facilitator.jpg
 [image4]: ./images/top300.png
 [image5]: ./images/devcn.png
-[image6]: ./images/devcr.jpeg
+[image6]: ./images/devcr.jpg
 
 
 
