@@ -17,7 +17,7 @@ redirect_from:
 
 
 
-* February 2020 - Start learning with **Fire Trader Group(abroad)**.
+* February 2020 - Start learning research with **Fire Trader Group(abroad)**.
 
 * December 2019 - Start learning research with **French Researcher**.
 
