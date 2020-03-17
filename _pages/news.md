@@ -33,8 +33,6 @@ redirect_from:
 
 ![][image5]
 
-* June 2019 - Start learning research with Taiwanese **[Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/)**, American **[Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/)**, Indian **[Harkirat Singh](https://www.linkedin.com/in/harkirat155/) Scholar**!
-
 * July 2019 - Selected for **Facilitator** of Developer Circles from **Facebook Mumbai**.
 
 ![][image3]
@@ -42,6 +40,8 @@ redirect_from:
 * July 2019 - **Mumbai Meetup** came into **Udacity Newsletter**.
 
 ![][image2]
+
+* June 2019 - Start learning research with Taiwanese **[Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/)**, American **[Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/)**, Indian **[Harkirat Singh](https://www.linkedin.com/in/harkirat155/) Scholar**!
 
 * May 2019 - UdacityFacebookScholar, Secure and Private AI Scholarship Challenge from Facebook Recipient of **Top 5000 Scholar from around the world**.  
 
