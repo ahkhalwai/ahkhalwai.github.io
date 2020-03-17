@@ -11,7 +11,7 @@ redirect_from:
 [image2]: ./images/udacitynewsletter.png   
 [image3]: ./images/facilitator.jpg
 [image4]: ./images/top300.png
-[image5]: ./images/devcn.png
+[image5]: ./images/devcn.jpg
 [image6]: ./images/devcr.jpg
 
 
