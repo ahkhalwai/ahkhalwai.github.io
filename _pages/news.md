@@ -25,13 +25,13 @@ redirect_from:
 
 ![][image6] 
 
-* August 2019 - **Recipient** Developer Circles from **Facebook** Machine Learning Training Course! of **Top 200 Scholar from around the world**, **Deep Learning Nanodegree**
-
-![][image5]
-
 * September 2019 - Secure and Private AI Scholarship Nanodegree from **Facebook Recipient of Top 300 Scholar from around the world**, Choosed **Computer Vision Nanodegree**.
 
 ![][image4]
+
+* August 2019 - **Recipient** Developer Circles from **Facebook** Machine Learning Training Course! of **Top 200 Scholar from around the world**, **Deep Learning Nanodegree**
+
+![][image5]
 
 * June 2019 - Start learning research with Taiwanese **[Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/)**, American **[Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/)**, Indian **[Harkirat Singh](https://www.linkedin.com/in/harkirat155/) Scholar**!
 
