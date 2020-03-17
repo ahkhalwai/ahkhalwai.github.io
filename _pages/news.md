@@ -7,7 +7,7 @@ redirect_from:
   - /News
 ---
 
-[image1]: ./images/spaictitle.png
+[image1]: ./images/spaictitle.jpg
 [image2]: ./images/udacitynewsletter.jpg   
 [image3]: ./images/facilitator.jpg
 [image4]: ./images/top300.png
