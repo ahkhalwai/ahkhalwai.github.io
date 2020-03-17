@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 [image1]: ./images/spaictitle.png
-[image2]: ./images/udacitynewsletter.png   
+[image2]: ./images/udacitynewsletter.jpg   
 [image3]: ./images/facilitator.jpg
 [image4]: ./images/top300.png
 [image5]: ./images/devcn.jpg
