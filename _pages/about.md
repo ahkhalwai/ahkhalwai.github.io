@@ -39,7 +39,7 @@ News
 
 <br>
 
- <a href='https://www.symptoma.com/en/info/covid-19'>2019-nCoV Facts</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=c55b54e403796ba65b5a623412569550a60e74e0'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/676423/t/5"></script> 
+  <a href='https://www.symptoma.com/en/info/covid-19'>2019-nCoV Facts</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=c55b54e403796ba65b5a623412569550a60e74e0'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/676423/t/5"></script>
 
 <br>
