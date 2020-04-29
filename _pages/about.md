@@ -39,10 +39,9 @@ News
 
 <br>
 
-
-<!-- Badge Code - Do Not Change The Code -->
-<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="d01e2f6c033572b9ef845ae7f2c700b0|6|ip|1|#50bcea|#ffffff|large|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
-<!-- Badge Code End Here -->
-
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7284666&style=0001&nbdigits=6&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" >
+</a>       
 
 <br>
