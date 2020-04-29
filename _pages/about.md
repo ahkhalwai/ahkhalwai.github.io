@@ -37,5 +37,9 @@ News
 
 * June 2019 - Start learning research with Taiwanese Scholar!
 
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io)</a> |
+  <br><br>
+</p>  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io)
