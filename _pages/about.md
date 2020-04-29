@@ -36,3 +36,5 @@ News
 * December 2019 - Start learning with French Researcher.
 
 * June 2019 - Start learning research with Taiwanese Scholar!
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
