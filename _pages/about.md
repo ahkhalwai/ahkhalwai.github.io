@@ -39,7 +39,10 @@ News
 
 <br>
 
- <a href='https://www.symptoma.com/en/info/covid-19'>2019-nCoV Facts</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2d66627f94e12bd33039c09c1044b87af19382d9'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/676424/t/2"></script>
+
+<!-- Badge Code - Do Not Change The Code -->
+<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="d01e2f6c033572b9ef845ae7f2c700b0|6|page|1|#50caea|#ffffff|large|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+<!-- Badge Code End Here -->
+
 
 <br>
