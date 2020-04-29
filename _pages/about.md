@@ -39,9 +39,7 @@ News
 
 <br>
 
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7284666&style=0001&nbdigits=6&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" >
-</a>       
+ <a href='https://www.symptoma.com/en/info/covid-19'>2019-nCoV Facts</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=c55b54e403796ba65b5a623412569550a60e74e0'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/676423/t/5"></script> 
 
 <br>
