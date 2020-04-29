@@ -39,6 +39,10 @@ News
 
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io)
+
+<!-- Badge Code - Do Not Change The Code -->
+<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="d01e2f6c033572b9ef845ae7f2c700b0|6|page|1|#5093ea|#ffffff|large|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+<!-- Badge Code End Here -->
+
 
 <br>
