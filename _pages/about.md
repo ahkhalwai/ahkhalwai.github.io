@@ -37,6 +37,7 @@ News
 
 * June 2019 - Start learning research with Taiwanese Scholar!
 
+<br>
 
 | Resume Visitor | YouTube Visitor | News Visitor | Project Visitor | Certification Visitor | Home Visitor |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
