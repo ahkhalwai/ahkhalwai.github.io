@@ -42,9 +42,9 @@ News
 Page Visitor
 ======
 
-| ## Resume Visitor | YouTube Visitor | News Visitor | Project Visitor | Certification Visitor | Home Visitor |
+| [![Generic badge](https://img.shields.io/badge/Resume-Visitor-green.svg)](https://shields.io/) | [![Generic badge](https://img.shields.io/badge/YouTube-Visitor-blue.svg)](https://shields.io/) | [![Generic badge](https://img.shields.io/badge/News-Visitor-red.svg)](https://shields.io/) | [![Generic badge](https://img.shields.io/badge/Project-Visitor-yellow.svg)](https://shields.io/) | [![Generic badge](https://img.shields.io/badge/Certifications-Visitor-orange.svg)](https://shields.io/) | Home Visitor |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/youtube/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/news/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/projects/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/talks/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/) |
 
 
-[![Generic badge](https://img.shields.io/badge/Resume-Visitor-green.svg)](https://shields.io/)
+
