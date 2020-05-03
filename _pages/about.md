@@ -37,16 +37,7 @@ News
 
 * June 2019 - Start learning research with Taiwanese Scholar!
 
-| Visitor | Visitor Page |
-| ------------------------- | ------------------------- |
-| ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/) | Resume Visitor | 
-| ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/youtube/) | YouTube Visitor |
-| ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/news/) | News Visitor |
-| ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/projects/) | Project Visitor |
-| ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/talks/) | Certification Visitor |
-| ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/) | Total Visitor |
 
-
-| Resume Visitor | YouTube Visitor | News Visitor | Project Visitor | Certification Visitor | Total Visitor |
+| Resume Visitor | YouTube Visitor | News Visitor | Project Visitor | Certification Visitor | Home Visitor |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/youtube/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/news/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/projects/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/talks/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/) |
