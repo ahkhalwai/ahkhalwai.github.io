@@ -39,6 +39,6 @@ News
 
 <br>
 
-| Resume Visitor | YouTube Visitor | News Visitor | Project Visitor | Certification Visitor | Home Visitor |
+| $Resume Visitor$ | YouTube Visitor | News Visitor | Project Visitor | Certification Visitor | Home Visitor |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/youtube/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/news/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/projects/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/talks/) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/) |
