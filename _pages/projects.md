@@ -14,6 +14,12 @@ author_profile: true
 
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/projects/)
+Project Visitors
+
+![Project Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/projects/)
+
+Total Visitor
+
+![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
 
 <br>
