@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electronics & Telecommunication Engineer by Formal Education, and a Intel or Facebook AI Scholar. I am currently working on  Intel Edge AI Scholarship Challenge , and  OpenVINO ToolKit and Sentiment Analysis with a focus in Natural Language Processing & Deep Learning. I recently completed my [Computer Vision Nenodegree](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/images/CVND.pdf) and [Deep Learning Nenodegree](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/images/DLND.pdf) at [Udacity](https://www.udacity.com/) . Before that, I completed my B.Tech. in Electronics and  Telecommunication Engineering from [PCE, Mumbai](https://www.pce.ac.in/). 
+I am an Electronics & Telecommunication Engineer by Formal Education, and a Intel or Facebook AI Scholar. I am currently working on  Intel Edge AI Scholarship Challenge , and  OpenVINO ToolKit and Sentiment Analysis with a focus in Natural Language Processing & Deep Learning. I recently completed my [Computer Vision Nenodegree](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/images/CVND.pdf) and [Deep Learning Nenodegree](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/images/DLND.pdf) at [Udacity](https://www.udacity.com/) . Before that, I completed my B.E in Electronics and  Telecommunication Engineering from [PCE, Mumbai](https://www.pce.ac.in/). 
 
 <br>
 
