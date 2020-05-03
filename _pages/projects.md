@@ -12,3 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
+
+<br>
