@@ -80,8 +80,6 @@ Resume Visitors
 
 ![Resume Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/)
 
-<br>
-
 Total Visitors
 
 ![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
