@@ -76,6 +76,10 @@ Honors
 
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/)
+![Resume Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/)
+
+<br>
+
+![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
 
 <br>
