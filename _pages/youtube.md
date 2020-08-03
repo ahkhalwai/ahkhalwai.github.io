@@ -20,10 +20,10 @@ December 2019 - AWS Create Free Tire - Instances limit Increase - Client Error -
 
 YouTube Visitors
 
-![YouTube Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/youtube/)
+![YouTube Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahkhalwai.ahkhalwai.github.io/youtube/)
 
 Total Visitors
 
-![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
+![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
 
 <br>
