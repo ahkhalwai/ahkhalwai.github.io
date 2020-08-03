@@ -51,10 +51,10 @@ redirect_from:
 
 News Visitors
 
-![News Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/news/)
+![News Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahkhalwai.ahkhalwai.github.io/news/)
 
 Total Visitor
 
-![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
+![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
 
 <br>
