@@ -78,10 +78,10 @@ Honors
 
 Resume Visitors
 
-![Resume Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/)
+![Resume Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahkhalwai.ahkhalwai.github.io/cv/)
 
 Total Visitors
 
-![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
+![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
 
 <br>
