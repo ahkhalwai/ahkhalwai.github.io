@@ -16,10 +16,10 @@ author_profile: true
 
 Project Visitors
 
-![Project Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/projects/)
+![Project Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahkhalwai.ahkhalwai.github.io/projects/)
 
 Total Visitor
 
-![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
+![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahkhalwai.ahkhalwai.github.io/)
 
 <br>
