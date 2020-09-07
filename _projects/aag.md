@@ -1,5 +1,5 @@
 ---
-permalink: /projects/aaj
+permalink: /projects/aag
 title: "Aerial Cactus Identification"
 collection: projects
 venue: "Kaggle"
