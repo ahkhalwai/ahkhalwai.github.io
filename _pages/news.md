@@ -15,6 +15,7 @@ redirect_from:
 [image6]: ./images/devcr.jpg
 [image7]: ./images/inteledge.png
 [image8]: ./images/inteledgeai.jpg
+[image9]: ./images/aci.jpg
 
 * April 2020 - Intel® Edge AI Scholarship Nanodegree from **Intel Recipient of Top 750 Scholar from around the world**.
 
@@ -39,6 +40,10 @@ redirect_from:
 * August 2019 - **Recipient** Developer Circles from **Facebook** Machine Learning Training Course! of **Top 200 Scholar from around the world**, **Deep Learning Nanodegree**
 
 ![][image5]
+
+* July 2019 - Reached **Top 13% (i.e 149) Rank** in Private LeaderBoard.
+
+![][image9]
 
 * July 2019 - Selected for **Facilitator** of Developer Circles from **Facebook Mumbai**.
 
