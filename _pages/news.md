@@ -14,8 +14,11 @@ redirect_from:
 [image5]: ./images/devcn.jpg
 [image6]: ./images/devcr.jpg
 [image7]: ./images/inteledge.png
+[image8]: ./images/inteledgeai.jpg
 
+* April 2020 - Intel® Edge AI Scholarship Nanodegree from **Intel Recipient of Top 750 Scholar from around the world**.
 
+![][image8]
 
 * February 2020 - Start learning research with **Fire Trader Group(abroad)**.
 
