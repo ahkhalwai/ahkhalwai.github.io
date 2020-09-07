@@ -13,13 +13,17 @@ redirect_from:
 [image4]: ./images/top300.png
 [image5]: ./images/devcn.jpg
 [image6]: ./images/devcr.jpg
-
+[image7]: ./images/inteledge.png
 
 
 
 * February 2020 - Start learning research with **Fire Trader Group(abroad)**.
 
 * December 2019 - Start learning research with **French Researcher**.
+
+* December 2019 - Intel Edge AI Scholarship Challenge from Intel Recipient of **Top 16000 Scholar from around the world**.
+
+![][image7]
 
 * December 2019 - Developer Circles from **Facebook** posted **My Story**.
 
