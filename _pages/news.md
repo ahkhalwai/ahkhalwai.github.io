@@ -41,7 +41,7 @@ redirect_from:
 
 ![][image5]
 
-* July 2019 - Reached **Top 13% (i.e 149) Rank** in Private LeaderBoard.
+* July 2019 - Kaggle Aerial Cactus Identification Competition Reached **Top 13% (i.e 149) Rank** in Private LeaderBoard.
 
 ![][image9]
 
