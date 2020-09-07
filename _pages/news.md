@@ -16,8 +16,16 @@ redirect_from:
 [image7]: ./images/inteledge.png
 [image8]: ./images/inteledgeai.jpg
 [image9]: ./images/aci.jpg
+[image10]: ./images/ds.jpg
+
+
+
 
 * April 2020 - Participate in **[The Global Hack(Hackathon)](https://theglobalhack.devpost.com/)** with **[Democracy Studio Team](https://devpost.com/software/democracy-studio)**.
+
+* April 2020 - Joined the **Democracy Studio** and part of **International Team**.
+
+![][image10]
 
 * April 2020 - Intel® Edge AI Scholarship Nanodegree from **Intel Recipient of Top 750 Scholar from around the world**.
 
