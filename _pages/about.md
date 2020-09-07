@@ -31,11 +31,17 @@ If there's anything you believe, I am looking forward to talking to you! If you 
 News
 ======
 
+* April 2020 - Participate in The Global Hack(Hackathon) with Democracy Studio Team. 
+
 * February 2020 - Start learning with Fire Trader Group(abroad).
+
+* January 2020 - Selected for Intel AI Scholars 2020.
 
 * December 2019 - Start learning with French Researcher.
 
 * June 2019 - Start learning research with Taiwanese Scholar!
+
+* May 2019 - Selected for Facebook AI Scholars 2019.
 
 <br>
 
