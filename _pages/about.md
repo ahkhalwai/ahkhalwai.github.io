@@ -45,7 +45,7 @@ News
 
 * May 2019 - Become a **[Facebook AI Scholars 2019](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/spaictitle.jpg)**.
 
-**[Full News Story](https://ahkhalwai.github.io/news/)**
+* For **[More News Story](https://ahkhalwai.github.io/news/)**
 
 <br>
 
