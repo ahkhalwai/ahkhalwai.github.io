@@ -24,7 +24,7 @@ Get in Touch
 
 I am open to collaboration and would be eager to work with others.
  
-If there's anything you believe, I am looking forward to talking to you! If you want to chat with me,the give link here [Book the time slot](https://calendly.com/ahkhalwai55) to find a time that works best for you.
+If there's anything you believe, I am looking forward to talking to you! If you want to chat with me,the give link here [Book the time slot](https://calendly.com/s/hVe4S2QC) to find a time that works best for you.
 
 <br>
 
