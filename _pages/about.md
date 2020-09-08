@@ -35,7 +35,7 @@ News
 
 * April 2020 - Participate in **[The Global Hack(Hackathon)](https://theglobalhack.devpost.com/)** with **[Democracy Studio Team](https://devpost.com/software/democracy-studio)**. 
 
-* April 2020 - Joined the **[Democracy Studio Team](https://devpost.com/software/democracy-studio)** and part of **[International Team][https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/ds.jpg]**.
+* April 2020 - Joined the **[Democracy Studio Team](https://devpost.com/software/democracy-studio)** and part of **[International Team](image1)**.
 
 * February 2020 - Start learning with **Fire Trader Group(abroad)**.
 
