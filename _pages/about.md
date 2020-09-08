@@ -33,17 +33,17 @@ News
 
 * April 2020 - Participate in **[The Global Hack(Hackathon)](https://theglobalhack.devpost.com/)** with **[Democracy Studio Team](https://devpost.com/software/democracy-studio)**. 
 
-* April 2020 - Joined the **[Democracy Studio Team](https://devpost.com/software/democracy-studio)** and part of [International Team](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/ds.jpg).
+* April 2020 - Joined the **[Democracy Studio Team](https://devpost.com/software/democracy-studio)** and part of **[International Team](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/ds.jpg)**.
 
 * February 2020 - Start learning with Fire Trader Group(abroad).
 
-* January 2020 - Selected for Intel AI Scholars 2020.
+* January 2020 - Become a **[Intel AI Scholars 2020](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/inteledge.png)**.
 
-* December 2019 - Start learning with French Researcher.
+* December 2019 - Start learning with **French Researcher [Julien Carbonnell](https://www.linkedin.com/in/juliencarbonnell/)**.
 
-* June 2019 - Start learning research with Taiwanese Scholar and US Scholar!.
+* June 2019 - Start learning research with **Taiwanese Scholar [Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/) and US Scholar! [Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/)**.
 
-* May 2019 - Selected for Facebook AI Scholars 2019.
+* May 2019 - Become a **[Facebook AI Scholars 2019](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/spaictitle.jpg)**.
 
 <br>
 
