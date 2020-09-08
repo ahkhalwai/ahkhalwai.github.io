@@ -41,13 +41,15 @@ News
 
 * February 2020 - Start learning with **Fire Trader Group(abroad)**.
 
-* January 2020 - Become a **[Intel AI Scholars 2020](./images/inteledge.png)**.
+* January 2020 - Become a **[Intel AI Scholars 2020](./images/inteledge.png
+)**.
 
 * December 2019 - Start learning with **French Researcher [Julien Carbonnell](https://www.linkedin.com/in/juliencarbonnell/)**.
 
 * June 2019 - Start learning research with **Taiwanese Scholar [Hsin-Wen Chang](https://www.linkedin.com/in/hsin-wen-chang/) and US Scholar! [Sarah Majors](https://www.linkedin.com/in/sarah-majors-030991a5/)**.
 
-* May 2019 - Become a **[Facebook AI Scholars 2019](./images/spaictitle.jpg)**.
+* May 2019 - Become a **[Facebook AI Scholars 2019](./images/spaictitle.jpg
+)**.
 
 * For **[More News Story](https://ahkhalwai.github.io/news/)**
 
