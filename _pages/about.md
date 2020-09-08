@@ -35,7 +35,7 @@ News
 
 * April 2020 - Joined the **[Democracy Studio Team](https://devpost.com/software/democracy-studio)** and part of **[International Team](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/ds.jpg)**.
 
-* February 2020 - Start learning with Fire Trader Group(abroad).
+* February 2020 - Start learning with **Fire Trader Group(abroad)**.
 
 * January 2020 - Become a **[Intel AI Scholars 2020](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/inteledge.png)**.
 
