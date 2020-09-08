@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Nenodegree"
+title: "Deep Learning Nanodegree"
 collection: talks
 type: "Udacity"
 permalink: /talks/f_certif
