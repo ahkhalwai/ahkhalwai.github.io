@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[image1]: ./_pages/images/ds.jpg
+[image1]: /_pages/images/ds.jpg
 [image2]: ./_pages/images/inteledge.png
 [image3]: ./_pages/images/spaictitle.jpg
 
