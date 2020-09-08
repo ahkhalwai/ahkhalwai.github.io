@@ -31,9 +31,9 @@ If there's anything you believe, I am looking forward to talking to you! If you 
 News
 ======
 
-* April 2020 - Participate in The Global Hack(Hackathon) with Democracy Studio Team. 
+* April 2020 - Participate in **[The Global Hack(Hackathon)](https://theglobalhack.devpost.com/)** with **[Democracy Studio Team](https://devpost.com/software/democracy-studio)**. 
 
-* April 2020 - Joined the Democracy Studio and part of International Team.
+* April 2020 - Joined the **[Democracy Studio Team](https://devpost.com/software/democracy-studio)** and part of [International Team](_pages/images/ds.jpg).
 
 * February 2020 - Start learning with Fire Trader Group(abroad).
 
