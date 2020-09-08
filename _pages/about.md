@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 I am an Electronics & Telecommunication Engineer by Formal Education, and a Intel or Facebook AI Scholar. I recently completed my [Computer Vision Nanodegree](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/images/CVND.pdf) and [Deep Learning Nanodegree](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/images/DLND.pdf) at [Udacity](https://www.udacity.com/) . Before that, I completed my B.E in Electronics and  Telecommunication Engineering from [PCE, Mumbai](https://www.pce.ac.in/). 
 
 <br>
@@ -33,7 +35,7 @@ News
 
 * April 2020 - Participate in **[The Global Hack(Hackathon)](https://theglobalhack.devpost.com/)** with **[Democracy Studio Team](https://devpost.com/software/democracy-studio)**. 
 
-* April 2020 - Joined the **[Democracy Studio Team](https://devpost.com/software/democracy-studio)** and part of **[International Team](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/ds.jpg)**.
+* April 2020 - Joined the **[Democracy Studio Team](https://devpost.com/software/democracy-studio)** and part of **![International Team](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/_pages/images/ds.jpg)**.
 
 * February 2020 - Start learning with **Fire Trader Group(abroad)**.
 
