@@ -12,8 +12,10 @@ main:
   - title: "YouTube"
     url: /youtube/
     
+  - title: "Research Project"
+    url: /researchproject/
+    
   - title: "Resume"
     url: /cv/
   
-  - title: "Research Project"
-    url: /researchproject/
+  
