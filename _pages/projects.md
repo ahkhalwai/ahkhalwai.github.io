@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+## Research Project
+
 {% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
