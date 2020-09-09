@@ -77,12 +77,6 @@ Certifications
   {% endfor %}</ul>
   
 <br> 
-  
-Honors
-======
-
-
-<br>
 
 Resume Visitors
 
