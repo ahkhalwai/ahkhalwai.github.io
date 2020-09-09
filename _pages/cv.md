@@ -54,6 +54,14 @@ Work experience
   
 <br>  
 
+Research Project
+======
+  <ul>{% for post in site.researchproject %} 
+    {% include archive-duo.html %}
+  {% endfor %}</ul>
+  
+<br> 
+
 Projects
 ======
   <ul>{% for post in site.projects %}
