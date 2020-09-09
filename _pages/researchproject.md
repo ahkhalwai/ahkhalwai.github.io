@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.researchproject %}
-  {% include archive-single.html %}
+  {% include archive-duo.html %}
 {% endfor %}
 
 
