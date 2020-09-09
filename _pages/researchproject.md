@@ -3,8 +3,6 @@ layout: archive
 title: ""
 permalink: /researchproject/
 author_profile: true
-redirect_from:
-  - /Research Project
 ---
 
 
