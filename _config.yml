@@ -175,6 +175,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  researchproject:
+    output: true
+    permalink: /:collection/:path/  
   talks:
     output: true
     permalink: /:collection/:path/
@@ -209,6 +212,15 @@ defaults:
       author_profile: true
       share:
       comments:
+  # _researchproject
+  - scope:
+      path: ""
+      type: researchproject
+    values:
+      layout: duo
+      author_profile: true
+      share:
+      comments:    
   # _publications
   - scope:
       path: ""
