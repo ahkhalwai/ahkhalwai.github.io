@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /researchprojects/
+permalink: /researchproject/
 author_profile: true
 redirect_from:
   - /Research Project
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.projects %}
+{% for post in site.researchproject %}
   {% include archive-single.html %}
 {% endfor %}
 
