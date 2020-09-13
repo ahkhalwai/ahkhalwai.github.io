@@ -46,7 +46,7 @@ News
 
 * December 2019 - Start learning with **French Researcher [Julien Carbonnell](https://www.linkedin.com/in/juliencarbonnell/)**.
 
-* June 2019 - Start learning research with **[Taiwanese Scholar and US Scholar!](https://ahkhalwai.github.io/projects/aaa001)**.
+* June 2019 - Start learning research with **[Taiwanese Scholar and US Scholar!](https://ahkhalwai.github.io/researchproject/a002)**.
 
 * May 2019 - Become a **[Facebook AI Scholars 2019](_pages/images/spaictitle.jpg
 )**.
