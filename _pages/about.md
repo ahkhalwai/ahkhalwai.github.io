@@ -31,6 +31,15 @@ If there's anything you believe, I am looking forward to talking to you! If you 
 
 <br>
 
+Miscellaneous
+======
+
+To keep up with the tradition of my group, I setup this visitor counter by country starting Jan. 9, 2023. Thank you for visiting my website!
+
+<a href="https://info.flagcounter.com/hAg2"><img src="https://s11.flagcounter.com/count2/hAg2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<br>
+
 News
 ======
 
