@@ -11,7 +11,7 @@ redirect_from:
 [image2]: ./_pages/images/inteledge.png
 [image3]: ./_pages/images/spaictitle.jpg
 
-I am an Engineering Graduate by formal education and an Intel or Facebook AI Scholar. I am a certified professional in computer vision, deep learning, machine learning, and full-stack web development with two years of experience in project work and research papers. I am globally recognized, having been selected among the top 300 in Computer Vision and the top 500 in Deep Learning Nanodegree Scholarships, which led to opportunities in research, open-source contributions, and public speaking on AI topics. I was also involved in two startup ventures and international AI groups.
+I am an Engineering Graduate by formal education and an Intel or Facebook AI Scholar in 2019. I am a certified professional in computer vision, deep learning, machine learning, and full-stack web development, with two years of experience in project work and research papers. I am globally recognized, having been selected among the top 300 in the Computer Vision and the top 500 in the Deep Learning Nanodegree Scholarships. These achievements have led to opportunities in research, open-source contributions, and public speaking on AI topics. Additionally, I have been involved in two startup ventures and international AI groups.
 
 <br>
 
