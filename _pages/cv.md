@@ -12,11 +12,7 @@ redirect_from:
 Education
 ======
 
-* Full Stack Web Developer Nanodegree, 2024
-* Computer Vision Nanodegree, 2019
-* Deep Learning Nanodegree, 2019
 * B.Tech. in Electronics & Telecommunication Engineering, P.C.E. Mumbai, May 2017.
-
 
 <br> 
 
