@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* B.Tech. in Electronics & Telecommunication Engineering, P.C.E. Mumbai, May 2017.
+* B.E in Electronics & Telecommunication Engineering, Mumbai University, May 2017.
 
 <br> 
 
