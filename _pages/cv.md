@@ -19,12 +19,6 @@ Education
 Work experience
 ======
 
-* June 2019 – Sep 2019: Facilitator
-  * Developer Circle From Facebook  
-  * Conducting meetup for Deep Learning.
-  
-<br>
-
 * Sep 2018 – Nov 2018 : Data Scientist Intern
   * GEPL CAPITAL PVT.LTD.
   * Conducted in-depth analytics and gained valuable insights into customer
@@ -54,7 +48,16 @@ Projects
   {% endfor %}</ul>
   
 <br> 
-  
+
+Volunteering
+======
+
+* June 2019 – Sep 2019: Facilitator
+  * Developer Circle From Facebook  
+  * Conducting meetup for Deep Learning.
+
+<br> 
+
 Certifications
 ======
   <ul>{% for post in site.talks reversed %}
