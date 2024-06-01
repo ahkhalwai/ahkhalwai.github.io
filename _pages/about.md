@@ -11,14 +11,14 @@ redirect_from:
 [image2]: ./_pages/images/inteledge.png
 [image3]: ./_pages/images/spaictitle.jpg
 
-I am an Electronics & Telecommunication Engineer by Formal Education, and a Intel or Facebook AI Scholar. I recently completed my [Computer Vision Nanodegree](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/images/CVND.pdf) and [Deep Learning Nanodegree](https://github.com/ahkhalwai/ahkhalwai.github.io/blob/master/images/DLND.pdf) at [Udacity](https://www.udacity.com/) . Before that, I completed my B.E in Electronics and  Telecommunication Engineering from [PCE, Mumbai](https://www.pce.ac.in/). 
+I am an Engineering Graduate by formal education and an Intel or Facebook AI Scholar. I am a certified professional in computer vision, deep learning, machine learning, and full-stack web development with two years of experience in project work and research papers. I am globally recognized, having been selected among the top 300 in Computer Vision and the top 500 in Deep Learning Nanodegree Scholarships, which led to opportunities in research, open-source contributions, and public speaking on AI topics. I am also involved in two startup ventures and international AI groups.
 
 <br>
 
 Research Interests
 ======
 
-My research interests use more knowledge on Computer Vision & Deep Learning Nanodegree; I also like to think about Machine Learning as these model the most supreme agents we live with; the former created by Humans while the later created by Biological Science! 
+My research interests primarily focus on computer vision and deep learning, leveraging the advanced knowledge gained from my Nanodegree studies. I am particularly fascinated by machine learning, as it models the most advanced agents in our world—those created by humans through artificial intelligence and those developed through natural processes. I am dedicated to exploring the intersection of these fields to drive innovation and understanding.
 
 <br>
 
